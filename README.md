@@ -9,14 +9,14 @@
 tasks done :
 
 - [x] clone 
-- [ ] add
-- [ ] commit 
-- [ ] push 
-- [ ] branch 
-- [ ] checkout 
+- [x] add
+- [x] commit 
+- [x] push 
+- [x] branch 
+- [x] checkout 
 - [ ] stash
 - [x] pull
-- [ ] merge 
+- [x] merge 
 
 
 habits formation :
