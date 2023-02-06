@@ -9,14 +9,14 @@
 tasks done :
 
 - [x] clone 
-- [ ] add
-- [ ] commit 
-- [ ] push 
-- [ ] branch 
-- [ ] checkout 
-- [ ] stash
+- [x] add
+- [x] commit 
+- [x] push 
+- [x] branch 
+- [x] checkout 
+- [x] stash
 - [x] pull
-- [ ] merge 
+- [x] merge 
 
 
 habits formation :
@@ -24,4 +24,4 @@ habits formation :
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Wcs2PFz5q6g
 " target="_blank"><img src="http://img.youtube.com/vi/Wcs2PFz5q6g/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="360" height="240" border="80" /></a>
