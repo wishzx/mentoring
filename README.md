@@ -9,13 +9,13 @@
 tasks done :
 
 - [x] clone 
-- [x] add
-- [x] commit 
+- [ ] add
+- [ ] commit 
 - [ ] push 
 - [ ] branch 
 - [ ] checkout 
 - [ ] stash
-- [ ] pull
+- [x] pull
 - [ ] merge 
 
 
