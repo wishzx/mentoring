@@ -7,4 +7,12 @@
 
 tasks done
 
-- [ ] github 
+- [ ] clone 
+- [ ] add
+- [ ] commit 
+- [ ] push 
+- [ ] branch 
+- [ ] checkout 
+- [ ] stash
+- [ ] pull
+- [ ] merge 
