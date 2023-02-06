@@ -9,8 +9,8 @@
 tasks done :
 
 - [x] clone 
-- [ ] add
-- [ ] commit 
+- [x] add
+- [x] commit 
 - [ ] push 
 - [ ] branch 
 - [ ] checkout 
