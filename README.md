@@ -8,7 +8,7 @@
 
 tasks done :
 
-- [ ] clone 
+- [x] clone 
 - [ ] add
 - [ ] commit 
 - [ ] push 
