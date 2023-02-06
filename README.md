@@ -19,7 +19,7 @@ tasks done :
 - [x] merge 
 
 
-habits formation :
+habits formation : DONE
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Wcs2PFz5q6g
