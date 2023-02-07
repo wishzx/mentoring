@@ -3,6 +3,7 @@
 
 1. [github and making coding a habit](#github-and-making-coding-a-habit)
 2. [from ideas to code](#from-ideas-to-code)
+3. [minimizing mental friction](#minimizing-mental-friction)
 
 ### github and making coding a habit
 
@@ -33,4 +34,21 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ### from ideas to code
 
-...
+- [ ] whiteboard
+- [ ] comments
+- [ ] line of code 
+
+### minimizing mental friction
+
+- [ ] best vs exstensions
+- [ ] optimal window split
+- [ ] alt 123 
+- [ ] ctrl-shift p
+- [ ] ctrl- w , ctrl -s
+- [ ] ctrl-shift E T X 
+- [ ] ctrl G  page up/down
+- [ ] alt ^ 
+- [ ] ctrl F , ctrl-shift F
+- [ ] learn what ctrl-R does
+- [ ] dont press ctrl-q  
+- [ ] learn what ctrl-T does
