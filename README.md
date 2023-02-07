@@ -4,6 +4,7 @@
 1. [github and making coding a habit](#github-and-making-coding-a-habit)
 2. [from ideas to code](#from-ideas-to-code)
 3. [minimizing mental friction](#minimizing-mental-friction)
+4. [build your portfolio page and blog](#build-your-portfolio-page-and-blog)
 
 ### github and making coding a habit
 
@@ -52,3 +53,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 - [ ] learn what ctrl-R does
 - [ ] dont press ctrl-q  
 - [ ] learn what ctrl-T does
+- [ ] tab
+- [ ] ctrl space
+
+### build your portfolio page and blog
+
+TODO
