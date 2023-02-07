@@ -1,10 +1,10 @@
 # mentoring
 
 
-1. [github and making coding a habit](https://github.com/wishzx/mentoring/tree/main#1)
-2. [from ideas to code](https://github.com/wishzx/mentoring/tree/main#2)
+1. [github and making coding a habit](#github-and-making-coding-a-habit)
+2. [from ideas to code](#from-ideas-to-code)
 
-### github and making coding a habit {#1}
+### github and making coding a habit
 
 1. README and markdown (.md), [how to find informations on google](https://www.google.com/search?channel=fs&client=ubuntu&q=markdown+cheatsheet)
 1. github basics
@@ -31,6 +31,6 @@ habits formation :
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 
-### from ideas to code {#2}
+### from ideas to code
 
 ...
