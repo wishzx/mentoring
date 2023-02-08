@@ -65,7 +65,11 @@ whiteboard -> comment -> line of code (or google how)
 ### build your portfolio page and blog
 
 
-What is a static website?
+What is a static website? 
+
+my answer => a website that contain always the same information for each user without much interaction (imagine wikipedia)
+
+can be used for many type of projects : blog , portfolio , ecommerce , documentation, wiki .
 
 we will use gatsby (javascript) but there are many other options (https://jamstack.org/generators/)
 
