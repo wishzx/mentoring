@@ -2,9 +2,8 @@
 
 
 1. [github and making coding a habit](#github-and-making-coding-a-habit)
-2. [from ideas to code](#from-ideas-to-code)
-3. [minimizing mental friction](#minimizing-mental-friction)
-4. [build your portfolio page and blog](#build-your-portfolio-page-and-blog)
+2. [minimizing mental friction](#minimizing-mental-friction)
+3. [build your portfolio page and blog](#build-your-portfolio-page-and-blog)
 
 ### github and making coding a habit
 
@@ -33,13 +32,9 @@ habits formation :
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 
-### from ideas to code
-
-- [ ] whiteboard
-- [ ] comments
-- [ ] line of code 
-
 ### minimizing mental friction
+
+1) workspace optimization
 
 - [ ] best vs exstensions
 - [ ] optimal window split
@@ -55,6 +50,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 - [ ] learn what ctrl-T does
 - [ ] tab
 - [ ] ctrl space
+
+2) from ideas to code
+
+whiteboard -> comments -> line of code
 
 ### build your portfolio page and blog
 
