@@ -40,7 +40,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 1) from ideas to code
 
-whiteboard -> comment -> line of code (or google how to) 
+whiteboard -> comment -> line of code (or google how) 
+
+
+
 2) workspace optimization
 
 - [ ] best vs exstensions
@@ -59,7 +62,7 @@ whiteboard -> comment -> line of code (or google how to)
 - [ ] ctrl space
 
 
-### build your portfolio page and blog (static site)
+### build your portfolio page and blog
 
 
 What is a static website?
