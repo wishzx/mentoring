@@ -4,6 +4,8 @@
 1. [github and making coding a habit](#github-and-making-coding-a-habit)
 2. [minimizing mental friction](#minimizing-mental-friction)
 3. [build your portfolio page and blog](#build-your-portfolio-page-and-blog)
+4. [why so many programming languages](#why-so-many-programming-languages)
+5. [publish your first mobile app](#publish-your-first-mobile-app)
 
 ### github and making coding a habit
 
