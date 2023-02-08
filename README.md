@@ -34,7 +34,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ### minimizing mental friction
 
-1) workspace optimization
+
+
+1) from ideas to code
+
+whiteboard -> comment -> can you translate the comment to a line of code ?  YES -> line of code
+                                                                            NO  -> google how to do it 
+2) workspace optimization
 
 - [ ] best vs exstensions
 - [ ] optimal window split
@@ -51,10 +57,41 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 - [ ] tab
 - [ ] ctrl space
 
-2) from ideas to code
 
-whiteboard -> comments -> line of code
+### build your portfolio page and blog (static site)
 
-### build your portfolio page and blog
+
+What is a static website?
+
+we will use gatsby (javascript) but there are many other options (https://jamstack.org/generators/)
+
+https://www.gatsbyjs.com/showcase/
+https://www.gatsbyjs.com/starters/
+
+or maybe hugo ? https://themes.gohugo.io/ 
+
+https://overreacted.io/ cool blog i like 
+
+
+### why so many programming languages
+
+websites : javascript + html + css => react (dynamic site)             [ or python with django or flask ]
+
+mobile : swift => iOS, kotlin => android , react native => crossplatform
+
+videogames : c++ with unreal engine
+
+backend (server) : rust, go , python
+
+machine learning or data science : python
+
+scripting (simple programs that you run to do a specific task, usually automation / file management / data scraping) : python, bash
+
+devops : it's about hosting 
+
+----------------------------------------------------------------------------------------------
+
+
+### publish your first mobile app
 
 TODO
