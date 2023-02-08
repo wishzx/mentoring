@@ -40,8 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 1) from ideas to code
 
-whiteboard -> comment -> can you translate the comment to a line of code ?  YES -> line of code
-                                                                            NO  -> google how to do it 
+whiteboard -> comment -> line of code (or google how to) 
 2) workspace optimization
 
 - [ ] best vs exstensions
